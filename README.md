@@ -33,7 +33,7 @@ The Ticketmaster Discovery API allows you to search for events, attractions, or 
 
 ## Installation<a id="installation"></a>
 <div align="center">
-  <a href="https://konfigthis.com/sdk-sign-up?company=Ticketmaster&%20serviceName=Discovery%20&language=TypeScript">
+  <a href="https://konfigthis.com/sdk-sign-up?company=Ticketmaster&serviceName=Discovery&language=TypeScript">
     <img src="https://raw.githubusercontent.com/konfig-dev/brand-assets/HEAD/cta-images/typescript-cta.png" width="70%">
   </a>
 </div>
